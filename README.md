@@ -54,9 +54,3 @@ Dataset terbagi menjadi dua skala agregasi:
    - Membangun dan mengevaluasi model regresi (seperti *Linear Regression*, *Random Forest*, atau *XGBoost*) untuk memprediksi `cnt`.
    - Menguji performa model menggunakan metrik evaluasi **RMSE**, **MAE**, dan **R² Score**.
 
----
-
-## 5. How to Run
-1. Clone repositori ini:
-   ```bash
- git clone [https://github.com/username/bike-sharing-analytics.git](https://github.com/username/bike-sharing-analytics.git)
